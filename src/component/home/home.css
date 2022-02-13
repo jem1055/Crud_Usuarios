@@ -1,0 +1,20 @@
+:root {
+  --blanco: #ffffff;
+  --negro: #212121;
+  --azul: #0097a7;
+  --gris: #757575;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.hero {
+  background-image: url(../../assets/img/hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+  position: relative;
+}
